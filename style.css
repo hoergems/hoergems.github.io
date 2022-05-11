@@ -31,9 +31,9 @@ html {
             padding-top: 150px;
             width: 1400px;
             padding-left: 100px;
-            position: fixed;
+            position: relative;
             top: 0;
-            height: 700px;
+            height: 0px;
             color: white;
             z-index: -1;
             /*border: solid black;*/
@@ -63,7 +63,7 @@ html {
         }
 
         .main {
-            margin-top: 650px;
+            margin-top: 450px;
             background-color: #ffffff;
             /*border: 1px solid black;*/
         }
